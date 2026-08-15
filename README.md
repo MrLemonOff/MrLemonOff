@@ -27,7 +27,7 @@
 ### Programming Ecosystem
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,cs,java,go,rust,php,ruby,swift,kotlin,html,css,sql,bash,lua,perl,r,scala,dart,haskell,elixir,clojure,erlang,objectivec,matlab,groovy,solidity,arduino,coffeescript,crystal,cuda,d,delphi,factor,fsharp,haxe,julia,latex,lisp,actionscript,ada,apex,assembly,awk,cairo,ceylon,chapel,clojure,cobol,coffeescript,crystal,dart,docker,eiffel,elixir,elm,erlang,fantom,forth,fortran,gdscript,glsl,gnuplot,go,groovy,haskell,haxe,html,idris,io,java,javascript,julia,kotlin,latex,lisp,lua,makefile,markdown,matlab,mercury,nim,nix,ocaml,pascal,perl,php,pike,powershell,prolog,pug,python,r,racket,raku,reason,red,rexx,ring,ruby,rust,scala,scheme,scss,shell,solidity,sql,swift,tcl,tex,typescript,vala,vb,verilog,vhdl,vim,vue,wasm,zig" alt="Languages Matrix" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,cs,java,go,rust,php,ruby,swift,kotlin,html,css,sql,bash,lua,perl,r,scala,dart,haskell,elixir,clojure,erlang,matlab,groovy,solidity,arduino,coffeescript,crystal,cuda,d,delphi,haxe,julia,latex,lisp,actionscript,ada,apex,assembly,awk,cairo,ceylon,chapel,cobol,docker,eiffel,elm,fantom,forth,fortran,gdscript,glsl,gnuplot,haskell,html,idris,io,java,javascript,julia,kotlin,latex,lisp,lua,makefile,markdown,matlab,mercury,nim,nix,ocaml,pascal,perl,php,pike,powershell,prolog,pug,python,r,racket,raku,reason,red,rexx,ring,ruby,rust,scala,scheme,scss,shell,solidity,sql,swift,tcl,tex,typescript,vala,vb,verilog,vhdl,vim,vue,wasm,zig" alt="Languages Matrix" />
 </p>
 
 <br />
