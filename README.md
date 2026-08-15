@@ -16,14 +16,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrLemonOff&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrLemonOff&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br />
-
 ### About Me
 
 <p>
@@ -32,40 +24,10 @@
 
 <br />
 
-### Core Fields
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <strong>Game Development</strong>
-      <br /><br />
-      Building advanced mechanics, engines, scripts, and high-performance gameplay systems.
-    </td>
-    <td width="33%" align="center">
-      <strong>Full-Stack Engineering</strong>
-      <br /><br />
-      Developing scalable distributed architectures, robust backends, and responsive interfaces.
-    </td>
-    <td width="33%" align="center">
-      <strong>Automation & Systems</strong>
-      <br /><br />
-      Designing custom bots, utility toolsets, web scrapers, and infrastructure automation.
-    </td>
-  </tr>
-</table>
-
-<br />
-
 ### Programming Ecosystem
 
-<p>
-  Interactive stack matrix containing 100 languages. Click any language badge to toggle it off if it is outside your active stack.
-</p>
-
 <p align="center">
-  <a href="https://github.com/MrLemonOff">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,cs,java,go,rust,php,ruby,swift,kotlin,html,css,sql,bash,lua,perl,r,scala,dart,haskell,elixir,clojure,erlang,objectivec,matlab,groovy,solidity,arduino,coffeescript,commonlisp,crystal,cuda,d,delphi,elms,factor,fsharp,gamemaker,gocd,groovy,haxe,julia,latex,lisp,1c,actionscript,ada,apex,asciidoc,assembly,ats,augeas,awk,ballerina,befunge,bluespec,boo,brainfuck,cairo,ceylon,chapel,cirru,clean,cobol,coldfusion,crystal,curly,dart,dhall,docker,eiffel,elixir,elm,erlang,fantom,フラッター,forth,fortran,fsi,gaml,gams,gdscript,glsl,gnuplot,go,golo,gosu,groovy,hack,harbour,haxe,hcl,hlsl,html,hy,idris,io,j,janet,java,javascript,jcl,julia,kotlin,lasso,lean,less,liquid,lisp,livescript,llvm,logtalk,lolcode,lookml,lua,m4,makefile,markdown,mathematica,matlab,max,mercury,metal,mirah,ml,modelica,modula2,modula3,monkey,moonscript,MORDOR,nasal,nemerle,netlogo,nim,nix,nu,ocaml,objectivec,objectivecpp,ocaml,omgrofl,ooc,opa,opencl,openedge,oz,parigp,pascal,pawn,pep8,perl,php,pig,pike,pogoScript,pony,postscript,powershell,processing,prolog,promela,protobuf,pug,puppet,purebasic,purescript,python,q,qml,r,racket,ragel,raku,rascal,reason,rebol,red,rexx,ring,riot,rmarkdown,robotframework,roff,rpg,ruby,rust,sas,scala,scheme,scilab,sass,scss,sh,sheng,sip,slash,slice,slim,smalltalk,smarty,smt,snobol,solidity,sourcepawn,sparql,sqf,sql,stan,stata,stylus,supercollider,swift,systemverilog,tcl,tex,text,thrift,tla,tmux,tsql,tsx,ttcn,turing,typescript,unrealscript,vala,vb,vcl,velocity,verilog,vhdl,vim,visualbasic,volt,vue,wast,webassembly,wren,x10,xbase,xml,xojo,xquery,xs,xslt,xul,yacc,yaml,yul,zep,zig" alt="Languages Matrix" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,cs,java,go,rust,php,ruby,swift,kotlin,html,css,sql,bash,lua,perl,r,scala,dart,haskell,elixir,clojure,erlang,objectivec,matlab,groovy,solidity,arduino,coffeescript,crystal,cuda,d,delphi,factor,fsharp,haxe,julia,latex,lisp,actionscript,ada,apex,assembly,awk,cairo,ceylon,chapel,clojure,cobol,coffeescript,crystal,dart,docker,eiffel,elixir,elm,erlang,fantom,forth,fortran,gdscript,glsl,gnuplot,go,groovy,haskell,haxe,html,idris,io,java,javascript,julia,kotlin,latex,lisp,lua,makefile,markdown,matlab,mercury,nim,nix,ocaml,pascal,perl,php,pike,powershell,prolog,pug,python,r,racket,raku,reason,red,rexx,ring,ruby,rust,scala,scheme,scss,shell,solidity,sql,swift,tcl,tex,typescript,vala,vb,verilog,vhdl,vim,vue,wasm,zig" alt="Languages Matrix" />
 </p>
 
 <br />
