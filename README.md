@@ -28,15 +28,6 @@ const lmn = {
 
 ---
 
-### Featured Project
-
-<a href="https://github.com/MrLemonOff/AlgoWorld">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrLemonOff&repo=AlgoWorld&theme=tokyonight&hide_border=true" />
-</a>
-
-**AlgoWorld**: learn and code together on your own Wi-Fi. French Algorithm, C and Python in the browser, courses, translator, live coding, chats, whiteboards and streams. One PC hosts, friends join from any device.
-
----
 
 ### Languages
 
