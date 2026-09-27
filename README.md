@@ -161,27 +161,6 @@ const lmn = {
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MrLemonOff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLemonOff&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MrLemonOff&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrLemonOff&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrLemonOff&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
 ### Connect With Me
 
 <div align="center">
